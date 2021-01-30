@@ -1,4 +1,5 @@
-part3-1: 
+part3-1: the bug is that result is adding two string, so like "1" + "2" and result in "12".
+part3-2: I fix it by using parseint function on num1 and num2, then they can add up two integer. 
 
 
 1. citylots.json
